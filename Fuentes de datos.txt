@@ -1,0 +1,49 @@
+ESTIMACIONES DE PIB PROVINCIALES DE BADIA-MIRÓ: 1888 A 1973
+
+URL:
+https://www.researchgate.net/publication/285420347_pib_regional_data
+
+Basadas en el artículo 
+Badia-Miró, Marc. "The evolution of the location of economic activity in Chile in the long run: a paradox of extreme concentration in absence of agglomeration economies." Estudios de Economía 42.2 (2015).
+
+
+PIB REGIONALES DE MIDEPLAN: 1960 A 2001
+
+URL:
+https://catalogo.ministeriodesarrollosocial.gob.cl/cgi-bin/koha/opac-detail.pl?biblionumber=7281
+
+Empalme series de PIB regionales 1960-2001, base 1996.
+Por: Díaz Vernon, Javier.
+Colaborador(es): MIDEPLAN. Chile. Div. de Planificación Regional.
+Tipo de material: TextoTexto
+Editor: Santiago : MIDEPLAN, Dic. 2004
+Recursos en línea: Empalme series de PIB regionales 1960-2001, base 1996.
+Resumen: En la realización del empalme se recurrió a series originales elaboradas por Odeplan y el Banco Central de Chile. Incluye -metodología, -evolución de los PIB regionales, -período 1996-2000, -análisis regional y sectorial
+
+PIB REGIONALES DEL BANCO CENTRAL: 1985 - 2022
+
+URL a serie Base 1986
+https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_CCNN/MN_CCNN76/CCNN1986_PIB_REGIONAL/CCNN1986_PIB_REGIONAL
+
+
+POBLACIÓN: 1885 a 2022
+>Para el periodo 1885 a 1952 se usaron los censos de población
+
+URL (pp. 40-45):
+http://www.bibliotecanacionaldigital.gob.cl/visor/BND:86204
+
+>Para el periodo 1960 a 1992 se usó [lo dejé en el computador de mi pega, lo actualizo en la semana]
+
+>Para el periodo 1990 a 2022 se usó el Banco Central
+
+URL:
+https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_GENERO/MN_GENERO1/ED_DEM_PNSEXA_2/637944350839789845?cbFechaInicio=1990&cbFechaTermino=2023&cbFrecuencia=ANNUAL&cbCalculo=NONE&cbFechaBase=
+
+
+
+
+
+
+
+
+
